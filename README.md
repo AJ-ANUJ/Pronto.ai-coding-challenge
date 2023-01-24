@@ -3,7 +3,7 @@ Was it Rufus code challenge for Pronto.ai
 
 Instructions to run the code
 
-I have used GitPython module for this challenge.
+I have used GitPython library for this challenge.
 Therefore please install GitPython before trying to run this script.
 
 After installing GitPython run the following command in terminal: python pronto.py
